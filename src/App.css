@@ -1,0 +1,23 @@
+#app {
+    padding: 20px;
+}
+
+canvas {
+    margin: 10px 0;
+    cursor: crosshair;
+}
+
+button {
+    margin-right: 5px;
+}
+
+.undo {
+    border-bottom: royalblue 1px dotted;
+    color: royalblue;
+
+    cursor: pointer;
+}
+
+.undo:hover, .undo:active {
+    border-bottom: royalblue 1px solid;
+}
